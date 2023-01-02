@@ -1,0 +1,7 @@
+logs
+res
+.DS_Store
+.vscode
+target/*
+!target/*.jar
+!target/dependency/
